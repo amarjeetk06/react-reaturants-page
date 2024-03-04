@@ -1,2 +1,2 @@
-# react-reaturants-page
-I created a restaurants landing page with the help of React, which shows the item of foods, if you click on breakfast, then the food item in breakfast will be shown and same things repeat for other items. 
+# react-restaurant-page
+Design and developed a Restaurant frontend website using React.js. with a user-friendly navigation system that allows customers to easily browse menus by meal time.
